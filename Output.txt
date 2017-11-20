@@ -1,0 +1,46 @@
+**************************************************
+* Programmed by : Jeffrey Lo
+* Student ID    : 374780
+* CS1D          : T-Th 5:30p - 9:20p
+* ASSIGNMENT #1 : Linked List & Palindrome
+**************************************************
+Test Word #1
+The queue contains:  d a d
+"dad" is a Palindrome
+
+Test Word #2
+The queue contains:  r a d a r
+"radar" is a Palindrome
+
+Test Word #3
+The queue contains:  O t t o
+"Otto" is a Palindrome
+
+Test Word #4
+The queue contains:  m o m
+"mom" is a Palindrome
+
+Test Word #5
+The queue contains:  t i g e r s
+"tigers" is not a Palindrome
+
+Test Word #6
+The queue contains:  A m a n a p l a n a c a n a l P a n a m a
+"A man, a plan, a canal, Panama" is a Palindrome
+
+Test Word #7
+The queue contains:  I s n t t h i s c l a s s c o o l
+"Isn't this class cool?" is not a Palindrome
+
+Test Word #8
+The queue contains:  W a s i t a c a r o r a c a t I s a w
+"Was it a car or a cat I saw?" is a Palindrome
+
+Test Word #9
+The queue contains:  S i t o n a p o t a t o p a n O t i s
+"Sit on a potato pan, Otis" is a Palindrome
+
+Test Word #10
+The queue contains:  S a d d l e b a c k i s a g r e a t p l a c e t o l e a r n
+"Saddleback is a great place to learn" is not a Palindrome
+
